@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\oop\oop\bin\Debug\Demo3.exe.config
+C:\Users\yigit\source\repos\oop\oop\bin\Debug\Demo3.exe
+C:\Users\yigit\source\repos\oop\oop\bin\Debug\Demo3.pdb
+C:\Users\yigit\source\repos\oop\oop\obj\Debug\Demo3.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\oop\oop\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\oop\oop\obj\Debug\Demo3.exe
+C:\Users\yigit\source\repos\oop\oop\obj\Debug\Demo3.pdb
